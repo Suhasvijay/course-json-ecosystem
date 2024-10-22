@@ -60,13 +60,13 @@
     "certification": "paid"
   },
    {
-    "id": 10,
+    "id": 30,
     "platform": "freeCODECAMP",
     "free_course": "Yes",
     "course_name": "Harward CS50",
     "link": "https://www.freecodecamp.org",
     "difficulty": "beginner",
     "module_number": 1,
-    "certification": "paid"
+    "certification": "free"
   }
 ]
