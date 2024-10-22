@@ -60,8 +60,8 @@
     "certification": "paid"
   },
    {
-    "id": 10,
-    "platform": "freeCODECAMP",
+    "id": 7,
+    "platform": "Youtube",
     "free_course": "Yes",
     "course_name": "Harward CS50",
     "link": "https://www.freecodecamp.org",
