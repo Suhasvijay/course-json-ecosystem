@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+   {
+    "id": 7,
+    "platform": "Youtube",
+    "free_course": "Yes",
+    "course_name": "Harward CS50",
+    "link": "https://www.freecodecamp.org",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "paid"
   }
 ]
