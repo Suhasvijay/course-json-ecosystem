@@ -1,0 +1,12 @@
+[
+  {
+    "id": 100,
+    "platform": "cyfrin updraft",
+    "free_course": "yes",
+    "course_name": "Blockchain overview ",
+    "link": "https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "paid"
+  }
+]
