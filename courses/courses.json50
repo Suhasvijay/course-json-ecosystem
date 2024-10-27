@@ -257,5 +257,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-     }
+     },
+  {
+    "id":50
+    "platform":"Simplilearn",
+    "free_course":"yes",
+    "course_name":"Introduction to Artificial intelligence",
+    "link":"https://www.simplilearn.com/?utm_source=google&utm_medium=cpc&utm_term=simplilearn&utm_content=802977548-41114892706-698790228381&utm_device=m&utm_campaign=Search-Brand-Exact-IN-AllDevice-adgroup-Brand-simplilearn&gad_source=1&gclid=CjwKCAjwyfe4BhAWEiwAkIL8sI1IKL6O1fcVHcjeemlUPzGrIVP6LFyYRgomJbeE5lz8KmPR2nKxdhoCSycQAvD_BwE",
+    "difficulty":"begginer",
+    "module number":1,
+    "certification":"free"
+  }
 ]
