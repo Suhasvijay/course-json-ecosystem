@@ -857,6 +857,15 @@
     "course_name":"blockchain overview",
     "link":"https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
     "difficulty":"intermediate",
+    "module_number":1,
+  },
+  {
+    "id":86,
+    "platform":"cyfrin updraft",
+    "free_course":"yes",
+    "course_name":"blockchain overview",
+    "link":"https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V",
+    "difficulty":"intermediate",
     "module_number":1
   }
 ]
