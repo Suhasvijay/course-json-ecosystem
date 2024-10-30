@@ -682,3 +682,13 @@
     "module_number": 6,
     "certification": "paid"
   },
+{
+  "id":67,
+  "platform":"youtube"
+  "free_course":"yes"
+  "couse_name": "java full stack development"
+  "link" : "https://youtu.be/mtLSmHiJO?si=BRTYudgdhLKN"
+  "difficulty":"beginner",
+  "module_number":2,
+  "certification":"paid"
+},
