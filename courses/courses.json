@@ -839,4 +839,14 @@
     "difficulty": "Intermediate",
     "module_number": 2,
   },
+  {
+    "id":111,
+    "platform":"freedom with ai",
+    "free_course":"yes",
+    "course_name":"artificial intelligence",
+    "link":"https://freedomwithai.com/thank-you-v2",
+    "difficulty":"begginer",
+    "module_number":"1",
+  }
+    
 ]
