@@ -860,3 +860,13 @@
     "module_number":1
   }
 ]
+ {
+    "id": 88,
+    "platform": "Hacknovember",
+    "free_course": "Yes",
+    "course_name": "vscode and git",
+    "link": "https://hacktoberfest.com/",
+    "difficulty": "intermediate",
+    "module_number": 1,
+    "certification": "paid"
+  },
