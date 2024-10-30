@@ -860,3 +860,13 @@
     "module_number":1
   }
 ]
+{
+  "id":87,
+  "platform":"udemy",
+  "free_course":"no",
+  "course_name":"cloud computing",
+  "link":"https://www.udemy.com/course/cloudcomputing/",
+  "difficulty":intermediate",
+  "module_number":9,
+  "certification":"unpaid",
+  
