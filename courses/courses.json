@@ -940,4 +940,14 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
-  }]
+  },]
+{
+    "id": 90,
+    "Platform": "VScode",
+    "free_course": "yes",
+    "course_name": "Java Fingertips",
+    "link": "https://www.java.org/learn/Java-Fingertips/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
+  }
