@@ -701,6 +701,17 @@
     "difficulty": "intermediate",
     "module_number": 8,
     "certification": "free"
+  [
+  {
+    "id": 0,
+    "platform": "Code with Harry",
+    "free_course": "yes",
+    "course_name": "Python for Beginners",
+    "link": "https://www.codewithharry.com",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "free"
+  },
   },
   {
     "id": 68,
@@ -940,4 +951,24 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
-  }]
+  },
+{
+    "id": 90,
+    "Platform": "VScode",
+    "free_course": "yes",
+    "course_name": "Java Fingertips",
+    "link": "https://www.java.org/learn/Java-Fingertips/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
+  },
+{
+ "id": 99,
+    "platform": "Udemy",
+    "free_course": "paid",
+    "course_name": "Cybersecurity",
+    "link": "https://www.udemy.com/course/securityplus/?couponCode=LEARNNOWPLANS",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "paid"
+  }
