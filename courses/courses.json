@@ -839,4 +839,13 @@
     "difficulty": "Intermediate",
     "module_number": 2,
   },
+    {
+    "id": 85,
+    "Platform": "YouTube",
+    "free_course": "yes",
+    "course_name": "BAsics of CAED",
+    "link": "https://www.youtube.com/playlist?list=PL5FthDAhPUueLjb63-lI7sUe49-uDDubN",
+    "difficulty": "beginner",
+    "module_number": 25,
+  }
 ]
