@@ -872,6 +872,7 @@
     "difficulty": "Intermediate",
     "module_number": 2,
   },
+
   {
     "id":85,
     "platform":"cyfrin updraft",
@@ -972,4 +973,17 @@
     "difficulty": "beginner",
     "module_number": 3,
     "certification": "paid"
+  },
+
+ {
+    "id": 100,
+    "Platform": "YouTube",
+    "free_course": "yes",
+    "course_name": "Basics of CAED",
+    "link": "https://www.youtube.com/playlist?list=PL5FthDAhPUueLjb63-lI7sUe49-uDDubN",
+    "difficulty": "beginner",
+    "module_number": "25",
   }
+]
+
+
