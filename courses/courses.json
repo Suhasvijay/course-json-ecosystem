@@ -80,6 +80,16 @@
     "certification": "paid"
   },
    {
+    "id": 83,
+    "platform": "YouTube",
+    "free_course": "yes",
+    "course_name": "datasciensce",
+    "link": "https://m.youtube.com/watch?v=EerdGm-ehJQ",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+   {
     "id": 8,
     "platform": "Edx",
     "free_course": "yes",
@@ -857,9 +867,17 @@
     "course_name":"blockchain overview",
     "link":"https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
     "difficulty":"intermediate",
+    "module_number":1,
+  },
+   {
+    "id":85,
+    "platform":"youtube",
+    "free_course":"yes",
+    "course_name":"APIs for Beginners",
+    "link":"https://www.youtube.com/watch?v=GZvSYJDk-us",
+    "difficulty":"intermediate",
     "module_number":1
   },
-
   {
     "id":86,
     "platform":"Udemy",
@@ -868,5 +886,52 @@
     "link":"https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
     "difficulty":"hard",
     "module_number":1
-  }
-]
+  },
+  {
+    "id":86,
+    "platform":"youtube",
+    "free_course":"yes",
+    "course_name":"aws certified cloud practice",
+    "link":"https://www.youtube.com/watch?v=3hLmDS179YE",
+    "difficulty":"intermediate",
+    "module_number":1
+  },{
+    "id": 87,
+    "Platform": "edX",
+    "free_course": "yes",
+    "course_name": "Introduction to C- programming",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "ultra pro",
+    "module_number": 7,
+    "certification": "free"
+  },
+ {
+    "id": 88,
+    "platform": "Hacknovember",
+    "free_course": "Yes",
+    "course_name": "vscode and git",
+    "link": "https://hacktoberfest.com/",
+    "difficulty": "intermediate",
+    "module_number": 1,
+    "certification": "paid"
+  },
+{
+  "id":87,
+  "platform":"udemy",
+  "free_course":"no",
+  "course_name":"cloud computing",
+  "link":"https://www.udemy.com/course/cloudcomputing/",
+  "difficulty":intermediate",
+  "module_number":9,
+  "certification":"unpaid",
+},
+{
+ "id": 86 ,
+    "platform": "Kaggle",
+    "free_course": "paid",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+  }]
