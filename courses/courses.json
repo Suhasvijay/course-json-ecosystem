@@ -869,6 +869,12 @@
     "difficulty":"intermediate",
     "module_number":1,
   },
+  {
+    "id":86,
+    "platform":"cyfrin updraft",
+    "free_course":"yes",
+    "course_name":"blockchain overview",
+    "link":"https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V",
    {
     "id":85,
     "platform":"youtube",
