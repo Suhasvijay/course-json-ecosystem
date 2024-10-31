@@ -876,8 +876,16 @@
     "link":"https://www.youtube.com/watch?v=3hLmDS179YE",
     "difficulty":"intermediate",
     "module_number":1
-  }
-]
+  },{
+    "id": 87,
+    "Platform": "edX",
+    "free_course": "yes",
+    "course_name": "Introduction to C- programming",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "ultra pro",
+    "module_number": 7,
+    "certification": "free"
+  },
  {
     "id": 88,
     "platform": "Hacknovember",
@@ -899,3 +907,4 @@
   "certification":"unpaid",
 }
 ]
+
