@@ -80,6 +80,16 @@
     "certification": "paid"
   },
    {
+    "id": 83,
+    "platform": "YouTube",
+    "free_course": "yes",
+    "course_name": "datasciensce",
+    "link": "https://m.youtube.com/watch?v=EerdGm-ehJQ",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+   {
     "id": 8,
     "platform": "Edx",
     "free_course": "yes",
