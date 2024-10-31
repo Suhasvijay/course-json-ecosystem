@@ -61,11 +61,12 @@
   },
   {
     "id": 6,
-    "platform": "coursera",
-    "free_course": "Nope",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "Indian",
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python", "difficulty":
+    "course_name":
+    "ML Ops",
+    "beginner",
     "module_number": 6,
     "certification": "paid"
   },
