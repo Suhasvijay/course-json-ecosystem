@@ -905,6 +905,14 @@
   "difficulty":intermediate",
   "module_number":9,
   "certification":"unpaid",
-}
-]
-
+},
+{
+ "id": 86 ,
+    "platform": "Kaggle",
+    "free_course": "paid",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+  }]
