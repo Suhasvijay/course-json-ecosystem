@@ -983,7 +983,17 @@
     "link": "https://www.youtube.com/playlist?list=PL5FthDAhPUueLjb63-lI7sUe49-uDDubN",
     "difficulty": "beginner",
     "module_number": "25",
-  }
+  },
+  {
+    "id":101,
+    "Platform":"simplilearn",
+    "free_course":"yes",
+    "course_name":"introduction to artificial intelligence",
+    "link":"https://www.simplilearn.com/certifications/generative-ai-courses?utm_source=google&utm_medium=cpc&utm_term=simplilearn%20artificial%20intelligence&utm_content=802977548-169842056811-704513432154&utm_device=m&utm_campaign=Search-Brand-Exact-IN-AllDevice-adgroup-Brand-GenAI-Cat-Gen-AI&gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXYzmSvexejKx1m7F67ZMWlkzKMsK8KKi_l9T96zhzvdHxNADGFsWkIaAgF0EALw_wcB",
+    "difficulty":"beginner",
+    "module_number":"1",
+  },
+    
 ]
 
 
